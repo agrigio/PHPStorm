@@ -1,0 +1,6 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="USE_PAC_URL" value="true" />
+    <option name="PAC_URL" value="http://172.28.108.200/proxy.pac" />
+  </component>
+</application>

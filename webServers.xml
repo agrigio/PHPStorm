@@ -1,0 +1,30 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8a53056e-3f30-4d41-8a20-b298fb875719" name="DEVFSE1420Complementari" url="http://test.complementari.siciliafse1420.it/">
+        <fileTransfer host="10.12.2.35" port="22" rootFolder="/home/fse1420" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7189704a-af52-4f52-87e0-407ce26a7012" name="DEVFSEavvisooif" url="http://test.avvisooif2017.siciliafse1420.it/">
+        <fileTransfer host="10.12.2.35" port="22" rootFolder="/home/fse1420" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="19417d9e-ff7a-4fa5-946b-d0b577494c9f" name="DEVFSEavvisocat" url="http://test.avvisocat2017.siciliafse1420.it/">
+        <fileTransfer host="10.12.2.35" port="22" rootFolder="/home/fse1420" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
