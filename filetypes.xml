@@ -1,11 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="21dic - tblnatura" type="SQL" />
       <mapping pattern="31gen - insert-update tipo_azione_operazione" type="SQL" />
-      <mapping pattern="1feb - alter table partecipantecorso" type="SQL" />
       <mapping pattern="18dic - Fix DDRmensiliduplicate" type="SQL" />
+      <mapping pattern="1feb - alter table partecipantecorso" type="SQL" />
     </extensionMap>
   </component>
 </application>
