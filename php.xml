@@ -2,7 +2,7 @@
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="/usr/bin/php" id="44cec762-1740-4bef-a717-bb10675f2fb3" name="PHP 5.5" debugger_id="php.debugger.XDebug" />
-      <interpreter home="/Applications/MAMP/bin/php/php5.6.30/bin/php" id="d6607f4a-3a92-4e52-9119-8c4d41ed7f26" name="PHP" debugger_id="php.debugger.XDebug" />
+      <interpreter home="/Applications/MAMP/bin/php/php5.6.32/bin/php" id="d6607f4a-3a92-4e52-9119-8c4d41ed7f26" name="PHP" debugger_id="php.debugger.XDebug" />
       <interpreter home="/usr/local/php5-7.1.13-20180201-134129/bin/php" id="68c43696-aa95-416f-b4a8-124040fe2930" name="PHP 7.1" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
@@ -746,9 +746,9 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP">
-        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php5.6.30/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php5.6.30/bin/php" path_separator=":" version="5.6.30">
+        <phpinfo binary_type="PHP" php_cgi="/Applications/MAMP/bin/php/php5.6.32/bin/php-cgi" php_cli="/Applications/MAMP/bin/php/php5.6.32/bin/php" path_separator=":" version="5.6.32">
           <additional_php_ini />
-          <configuration_file>/Applications/MAMP/bin/php/php5.6.30/conf/php.ini</configuration_file>
+          <configuration_file>/Applications/MAMP/bin/php/php5.6.32/conf/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -800,7 +800,7 @@
             <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
             <configuration_option name="exit_on_timeout" value="0" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="/Applications/MAMP/bin/php/php5.6.30/lib/php/extensions/no-debug-non-zts-20131226/" />
+            <configuration_option name="extension_dir" value="/Applications/MAMP/bin/php/php5.6.32/lib/php/extensions/no-debug-non-zts-20131226/" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
@@ -819,7 +819,7 @@
             <configuration_option name="ignore_repeated_source" value="" />
             <configuration_option name="ignore_user_abort" value="0" />
             <configuration_option name="implicit_flush" value="1" />
-            <configuration_option name="include_path" value=".:/Applications/MAMP/bin/php/php5.6.30/lib/php" />
+            <configuration_option name="include_path" value=".:/Applications/MAMP/bin/php/php5.6.32/lib/php" />
             <configuration_option name="input_encoding" value="" />
             <configuration_option name="internal_encoding" value="" />
             <configuration_option name="intl.default_locale" value="" />
@@ -986,7 +986,7 @@
             <configuration_option name="xdebug.force_display_errors" value="0" />
             <configuration_option name="xdebug.force_error_reporting" value="0" />
             <configuration_option name="xdebug.halt_level" value="0" />
-            <configuration_option name="xdebug.idekey" value="netbeans-xdebug" />
+            <configuration_option name="xdebug.idekey" value="" />
             <configuration_option name="xdebug.max_nesting_level" value="256" />
             <configuration_option name="xdebug.max_stack_frames" value="-1" />
             <configuration_option name="xdebug.overload_var_dump" value="2" />
@@ -998,7 +998,7 @@
             <configuration_option name="xdebug.profiler_output_dir" value="/var/tmp/" />
             <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
             <configuration_option name="xdebug.remote_addr_header" value="" />
-            <configuration_option name="xdebug.remote_autostart" value="1" />
+            <configuration_option name="xdebug.remote_autostart" value="0" />
             <configuration_option name="xdebug.remote_connect_back" value="0" />
             <configuration_option name="xdebug.remote_cookie_expire_time" value="3600" />
             <configuration_option name="xdebug.remote_enable" value="0" />
