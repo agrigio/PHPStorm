@@ -25,6 +25,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="5b370e7d-4270-450e-8046-d975544bd99e" name="DEVFSEavvisoc1314" url="http://test.avvisoc1314.siciliafse1420.it/">
+        <fileTransfer host="10.12.2.35" port="22" rootFolder="/home/fse1420" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
