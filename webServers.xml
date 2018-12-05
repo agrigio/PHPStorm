@@ -33,6 +33,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="f76c9e32-2826-41ca-8d0c-7c98fea9aa20" name="ASSISTENZAFSE1420" url="https://assistenza.complementari.siciliafse1420.it/">
+        <fileTransfer host="156.54.139.140" port="22" rootFolder="/home/sfse1420/assistenza.complementari" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
