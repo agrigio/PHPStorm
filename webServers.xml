@@ -49,6 +49,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="89fa796f-be8f-4520-a381-13765189135b" name="PREPRODFSE1420" url="https://preprod.complementari.siciliafse1420.it/">
+        <fileTransfer host="156.54.139.142" port="22" rootFolder="/data/Web/test.complementari.siciliafse1420.it/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
