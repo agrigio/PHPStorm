@@ -57,6 +57,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="00f64929-b790-4ce0-978e-e5324a8c98c6" name="PRODAVVISO82016" url="https://avviso82016.siciliafse1420.it">
+        <fileTransfer host="avviso82016.siciliafse1420.it" port="22" rootFolder="/data/Web/avviso82016.siciliafse1420.it" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
