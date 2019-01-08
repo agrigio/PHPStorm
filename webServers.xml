@@ -65,6 +65,22 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="d4295cd8-3e09-4942-92c9-68b7d0448ff6" name="PRODcircolare1314" url="https://circolare1314.siciliafse1420.it">
+        <fileTransfer host="circolare1314.siciliafse1420.it" port="22" rootFolder="/data/Web/circolare1314.siciliafse1420.it" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9514e42d-fc37-4c1e-bc50-afd2a5b49e71" name="PRODavvisoiefp2019" url="https://avvisoiefp2019.siciliafse1420.it">
+        <fileTransfer host="srv4.frontend.siciliafse1420.it" port="22" rootFolder="/home/sfse1420/avvisoiefp2019" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
