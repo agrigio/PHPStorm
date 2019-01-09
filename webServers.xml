@@ -81,6 +81,22 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="dedf5ea8-ac62-43d6-8ac6-6e655aa591d7" name="SRV4dev.si" url="https://dev.si.siciliafse1420.it">
+        <fileTransfer host="srv4.frontend.siciliafse1420.it" port="22" rootFolder="/home/sfse1420/dev.si" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7eea5a19-02a9-4420-9662-33434e816f83" name="SRV4dev.sso" url="https://dev.sso.siciliafse1420.it">
+        <fileTransfer host="srv4.frontend.siciliafse1420.it" port="22" rootFolder="/home/sfse1420/dev.sso" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
