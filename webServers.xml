@@ -113,6 +113,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="d2b21468-8073-4204-8cad-7f9f9e0718c2" name="SRV4debug.si" url="https://debug.si.siciliafse1420.it">
+        <fileTransfer host="srv4.frontend.siciliafse1420.it" port="22" rootFolder="/home/sfse1420/debug.si" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
