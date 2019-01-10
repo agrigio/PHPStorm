@@ -97,6 +97,22 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="ba2106f5-46f4-4d88-bcb4-6f68502ff0ac" name="SRV4debug.sso" url="https://debug.sso.siciliafse1420.it">
+        <fileTransfer host="srv4.frontend.siciliafse1420.it" port="22" rootFolder="/home/sfse1420/debug.sso" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="7ebcfcfc-9f93-4d82-8b97-4389e515a329" name="PRODssoFSE1420" url="https://assistenza.complementari.siciliafse1420.it/">
+        <fileTransfer host="156.54.139.140" port="22" rootFolder="/home/sfse1420/sso" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
