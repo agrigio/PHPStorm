@@ -121,6 +121,22 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="0625d941-aa55-4b24-8d95-e2a944d38eff" name="PREPRODssoFSE1420" url="https://preprod.sso.siciliafse1420.it/">
+        <fileTransfer host="156.54.139.142" port="22" rootFolder="/data/Web/test.sso.siciliafse1420.it/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="41c11f1f-baec-4414-8634-39f537c7c567" name="FORMAZIONEssoFE1420" url="https://formazione.sso.siciliafse1420.it/">
+        <fileTransfer host="156.54.139.142" port="22" rootFolder="/data/Web/training.sso.siciliafse1420.it" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
