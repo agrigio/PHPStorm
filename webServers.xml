@@ -129,8 +129,16 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="41c11f1f-baec-4414-8634-39f537c7c567" name="FORMAZIONEssoFE1420" url="https://formazione.sso.siciliafse1420.it/">
+      <webServer id="41c11f1f-baec-4414-8634-39f537c7c567" name="FORMAZIONEssoFSE1420" url="https://formazione.sso.siciliafse1420.it/">
         <fileTransfer host="156.54.139.142" port="22" rootFolder="/data/Web/training.sso.siciliafse1420.it" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="2f9c750b-1260-4fec-a3a8-b13e9e033d48" name="FORMAZIONEFSE1420" url="https://formazione.complementari.siciliafse1420.it/">
+        <fileTransfer host="156.54.139.142" port="22" rootFolder="/data/Web/training.complementari.siciliafse1420.it" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
