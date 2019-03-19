@@ -137,6 +137,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="35ed8106-b846-4ed0-b8e9-6350340ad89f" name="ASSISTENZAssoFSE1420" url="https://assistenza.sso.siciliafse1420.it/">
+        <fileTransfer host="156.54.139.140" port="22" rootFolder="/home/sfse1420/assistenza.sso" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
