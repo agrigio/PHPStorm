@@ -4,8 +4,8 @@
       <mapping pattern="CREATE OR REPLACE VIEW v_pagamenti_paa" type="SQL" />
       <mapping pattern="presenzenonconsolidate" type="SQL" />
       <mapping pattern="registroindividuale" type="SQL" />
-      <mapping pattern="viewddgavviso2" type="SQL" />
       <mapping pattern="31gen - insert-update tipo_azione_operazione" type="SQL" />
+      <mapping pattern="ver_sovrapposizione_stage" type="SQL" />
       <mapping pattern="av10topreprod" type="SQL" />
       <mapping pattern="migrazionedatidagb" type="SQL" />
       <mapping pattern="18dic - Fix DDRmensiliduplicate" type="SQL" />
@@ -15,6 +15,7 @@
       <mapping pattern="inserttipospesa" type="SQL" />
       <mapping pattern="1feb - alter table partecipantecorso" type="SQL" />
       <mapping pattern="21dic - tblnatura" type="SQL" />
+      <mapping pattern="viewddgavviso2" type="SQL" />
     </extensionMap>
   </component>
 </application>
