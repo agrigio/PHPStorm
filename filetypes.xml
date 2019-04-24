@@ -17,6 +17,7 @@
       <mapping pattern="20180717Lug-Classi di concorso" type="SQL" />
       <mapping pattern="inserttipospesa" type="SQL" />
       <mapping pattern="1feb - alter table partecipantecorso" type="SQL" />
+      <mapping pattern="tipospesadisabili" type="SQL" />
       <mapping pattern="21dic - tblnatura" type="SQL" />
     </extensionMap>
   </component>
