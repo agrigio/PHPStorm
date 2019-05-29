@@ -74,6 +74,10 @@
           <option name="url" value="https://giorgioagrifogliostudioagrifoglioit:h1t.8giu79@app.deveo.com/studioagrifoglio/projects/sistema_fse1420/repositories/git/progettogiovani2019.siciliafse1420.it" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://helixteamhub.cloud" />
+          <option name="userName" value="giorgioagrifogliostudioagrifoglioit" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
