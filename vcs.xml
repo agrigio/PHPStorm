@@ -82,6 +82,10 @@
           <option name="url" value="https://giorgioagrifogliostudioagrifoglioit:h1t.8giu79@helixteamhub.cloud/studioagrifoglio/projects/sistema_fse1420/repositories/git/formazionesperimentale.poliziamunicipale" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://giorgioagrifogliostudioagrifoglioit@helixteamhub.cloud/studioagrifoglio/projects/forks_iefp/repositories/git/circolareiefp2019.siciliafse1420.it" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
