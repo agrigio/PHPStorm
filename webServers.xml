@@ -137,6 +137,22 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="e1dc605d-7f83-4a7f-a543-2e3c10fa1b6d" name="PREPRODavviso292019" url="https://preprod.avviso292019.siciliafse1420.it">
+        <fileTransfer host="156.54.139.147" port="22" rootFolder="/home/sfse1420/preprodavviso292019" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="0a88b745-50d7-49c0-9ab8-bd28d35da42e" name="PRODavviso292019" url="https://avviso292019.siciliafse1420.it">
+        <fileTransfer host="156.54.139.147" port="22" rootFolder="/home/sfse1420/avviso292019" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
