@@ -6,26 +6,26 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="18dic - Fix DDRmensiliduplicate" type="SQL" />
-      <mapping pattern="17Lug-Classi di concorso" type="SQL" />
       <mapping pattern="CREATE OR REPLACE VIEW v_pagamenti_paa" type="SQL" />
-      <mapping pattern="20180717Lug-Classi di concorso" type="SQL" />
-      <mapping pattern="migrazionedatidagb" type="SQL" />
       <mapping pattern="REVelencoregistro" type="SQL" />
-      <mapping pattern="av10topreprod" type="SQL" />
-      <mapping pattern="inserttipospesa" type="SQL" />
-      <mapping pattern="21dic - tblnatura" type="SQL" />
       <mapping pattern="fixcolumnsrequisitiUCS" type="SQL" />
+      <mapping pattern="registroindividuale" type="SQL" />
       <mapping pattern="viewddgavviso2" type="SQL" />
       <mapping pattern="31gen - insert-update tipo_azione_operazione" type="SQL" />
-      <mapping pattern="FIXviewupgrade" type="SQL" />
-      <mapping pattern="tipospesadisabili" type="SQL" />
-      <mapping pattern="registroindividuale" type="SQL" />
-      <mapping pattern="caratteristicheoperazione" type="SQL" />
-      <mapping pattern="1feb - alter table partecipantecorso" type="SQL" />
       <mapping pattern="ver_sovrapposizione_stage" type="SQL" />
-      <mapping pattern="tipooperazione" type="SQL" />
+      <mapping pattern="av10topreprod" type="SQL" />
       <mapping pattern="presenzenonconsolidate" type="SQL" />
+      <mapping pattern="migrazionedatidagb" type="SQL" />
+      <mapping pattern="18dic - Fix DDRmensiliduplicate" type="SQL" />
+      <mapping pattern="17Lug-Classi di concorso" type="SQL" />
+      <mapping pattern="tipooperazione" type="SQL" />
+      <mapping pattern="caratteristicheoperazione" type="SQL" />
+      <mapping pattern="FIXviewupgrade" type="SQL" />
+      <mapping pattern="20180717Lug-Classi di concorso" type="SQL" />
+      <mapping pattern="inserttipospesa" type="SQL" />
+      <mapping pattern="1feb - alter table partecipantecorso" type="SQL" />
+      <mapping pattern="tipospesadisabili" type="SQL" />
+      <mapping pattern="21dic - tblnatura" type="SQL" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
