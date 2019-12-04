@@ -7,7 +7,6 @@
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="CREATE OR REPLACE VIEW v_pagamenti_paa" type="SQL" />
-      <mapping pattern="REVelencoregistro" type="SQL" />
       <mapping pattern="av10topreprod" type="SQL" />
       <mapping pattern="fixcolumnsrequisitiUCS" type="SQL" />
       <mapping pattern="registroindividuale" type="SQL" />
@@ -21,6 +20,7 @@
       <mapping pattern="tipooperazione" type="SQL" />
       <mapping pattern="caratteristicheoperazione" type="SQL" />
       <mapping pattern="FIXviewupgrade" type="SQL" />
+      <mapping pattern="REVelencoregistro" type="SQL" />
       <mapping pattern="20180717Lug-Classi di concorso" type="SQL" />
       <mapping pattern="inserttipospesa" type="SQL" />
       <mapping pattern="1feb - alter table partecipantecorso" type="SQL" />
