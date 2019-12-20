@@ -161,6 +161,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="6df08463-cb37-41a1-84fd-5eecbb91e9fa" name="PRODAvviso302019" url="https://avviso302019.siciliafse1420.it">
+        <fileTransfer host="156.54.139.147" port="22" rootFolder="/home/sfse1420/avviso302019" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
