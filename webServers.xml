@@ -177,6 +177,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="49c1d160-518e-456c-9783-4f41aceb94ab" name="Multitech-Studioagrifoglio" url="http://multitechservice.it">
+        <fileTransfer host="multitechservice.it" port="2222" rootFolder="/home/mtech/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
