@@ -24,7 +24,7 @@
       <sshConfig authType="PASSWORD" host="156.54.139.147" id="bac45c61-0134-41de-a596-2700c5ac4c76" port="22" customName="PRODAvviso302019" nameFormat="CUSTOM" username="root" />
       <sshConfig authType="PASSWORD" host="srv4.frontend.siciliafse1420.it" id="f81135f4-dfb3-44cc-afd0-4fedb40e76b1" port="22" customName="PREPRODAvviso332019" nameFormat="CUSTOM" username="root" />
       <sshConfig authType="PASSWORD" host="multitechservice.it" id="1f321e99-f95c-4b03-8537-a496fef59271" port="2222" customName="Multitech-Studioagrifoglio" nameFormat="CUSTOM" username="mtech" />
-      <sshConfig authType="PASSWORD" host="multitechservice.it" id="21741e52-4bcd-4ac3-8565-1530e47d85d8" port="2222" customName="Multitech-Studioagrifoglio" nameFormat="CUSTOM" username="mtech" />
+      <sshConfig authType="PASSWORD" host="multitechservice.it" id="669f84be-52c8-46f3-8131-e47c54c30c31" port="2222" customName="Multitech-Studioagrifoglio" nameFormat="CUSTOM" username="mtech" />
     </configs>
   </component>
 </application>
