@@ -1,30 +1,29 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" host="10.12.2.35" id="6a1b3acb-6395-4af2-a8c8-b1c86fa4210f" port="22" customName="DEVFSE1420Complementari" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="10.12.2.35" id="942edc57-3624-4696-9ab2-7e22a474a1d0" port="22" customName="DEVFSEavvisooif" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="10.12.2.35" id="9c333dcd-ab92-4334-b92c-48144dd606e8" port="22" customName="DEVFSEavvisocat" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="10.12.2.35" id="04a50f6d-acc9-46ff-b677-a11b6ee81a45" port="22" customName="DEVFSEavvisoc1314" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="156.54.139.140" id="3b707713-7cce-4269-937a-04fb04881676" port="22" customName="ASSISTENZAFSE1420" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="156.54.139.140" id="698b659b-d0e6-43cc-9f24-5eecf4353988" port="22" customName="PRODFSE1420" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="156.54.139.142" id="59596c71-a7f1-4ec4-a9bf-0d435b86ddfb" port="22" customName="PREPRODFSE1420" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="avviso82016.siciliafse1420.it" id="94e424ba-9169-4e1d-bddd-3bc775f359be" port="22" customName="PRODAVVISO82016" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="circolare1314.siciliafse1420.it" id="a3eb515c-295e-47f7-bde2-152357d62366" port="22" customName="PRODcircolare1314" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="srv4.frontend.siciliafse1420.it" id="362fccd2-b627-4cfa-9a90-c4d494613442" port="22" customName="SRV4dev.si" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="srv4.frontend.siciliafse1420.it" id="1c52f312-4e56-4a04-be87-f19b847200e1" port="22" customName="SRV4dev.sso" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="srv4.frontend.siciliafse1420.it" id="8990bb0c-8f3f-4718-8071-4f646e73e709" port="22" customName="SRV4debug.sso" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="156.54.139.140" id="0bc85abb-294c-41c2-bf3b-6b35aeed4325" port="22" customName="PRODssoFSE1420" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="srv4.frontend.siciliafse1420.it" id="8ef24d9d-b818-4a74-80b1-8aaa9ca4dd83" port="22" customName="SRV4debug.si" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="156.54.139.142" id="7fa1ad7f-381d-4e63-9127-0cd979587da5" port="22" customName="PREPRODssoFSE1420" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="156.54.139.142" id="b8dca2fe-9c41-49ec-a26f-f16b0aff66d7" port="22" customName="FORMAZIONEFSE1420" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="156.54.139.140" id="69552223-142a-4a0b-9647-f33a05491f0c" port="22" customName="ASSISTENZAssoFSE1420" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="156.54.139.147" id="89f4fddd-8956-4652-8af7-22c449153d1c" port="22" customName="PREPRODavviso292019" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="156.54.139.147" id="3c639286-f811-47c4-81cd-2c5d597c21d7" port="22" customName="PRODavviso292019" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="156.54.139.147" id="4253ec92-fc8f-4cff-ab6a-d443f6948acd" port="22" customName="PREPRODAvviso302019" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="156.54.139.147" id="bac45c61-0134-41de-a596-2700c5ac4c76" port="22" customName="PRODAvviso302019" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="srv4.frontend.siciliafse1420.it" id="f81135f4-dfb3-44cc-afd0-4fedb40e76b1" port="22" customName="PREPRODAvviso332019" nameFormat="CUSTOM" username="root" />
-      <sshConfig authType="PASSWORD" host="multitechservice.it" id="1f321e99-f95c-4b03-8537-a496fef59271" port="2222" customName="Multitech-Studioagrifoglio" nameFormat="CUSTOM" username="mtech" />
-      <sshConfig authType="PASSWORD" host="multitechservice.it" id="402f6562-49c8-4861-8d01-252a64c1878e" port="2222" customName="Multitech-Studioagrifoglio" nameFormat="CUSTOM" username="mtech" />
+      <sshConfig authType="PASSWORD" host="10.12.2.35" id="0db0ae96-9828-49a3-8f30-5d84d759c5f6" port="22" customName="DEVFSE1420Complementari" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="10.12.2.35" id="29ec89ad-e12e-4fcb-a04c-b502e2270686" port="22" customName="DEVFSEavvisooif" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="10.12.2.35" id="ea63464d-125a-49b3-b8c1-a6591bba33fb" port="22" customName="DEVFSEavvisocat" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="10.12.2.35" id="ffba45dd-f26b-4f82-94cd-bc44b4845540" port="22" customName="DEVFSEavvisoc1314" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="156.54.139.140" id="31d71d02-1a7d-4184-a6c6-5b39a8e95f46" port="22" customName="ASSISTENZAFSE1420" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="156.54.139.140" id="607338c3-2cba-4a94-9e5c-076ed143fec0" port="22" customName="PRODFSE1420" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="156.54.139.142" id="f58f0968-a7ba-42a3-9c16-c8b85e6271d5" port="22" customName="PREPRODFSE1420" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="avviso82016.siciliafse1420.it" id="fa52f125-de94-4101-89ca-e16add640bb3" port="22" customName="PRODAVVISO82016" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="circolare1314.siciliafse1420.it" id="a5b3b14a-a900-46f9-b86a-7b5f531fa44d" port="22" customName="PRODcircolare1314" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="srv4.frontend.siciliafse1420.it" id="a825b030-b5fe-4f4f-baa7-40ada254db57" port="22" customName="SRV4dev.si" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="srv4.frontend.siciliafse1420.it" id="e29c284a-b880-4fa3-bc8e-e6ffc535e27c" port="22" customName="SRV4dev.sso" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="srv4.frontend.siciliafse1420.it" id="33718227-ebc4-41ba-9eea-486a4eeb90d5" port="22" customName="SRV4debug.sso" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="156.54.139.140" id="a35d7985-df55-404d-848a-9c83bde3a19d" port="22" customName="PRODssoFSE1420" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="srv4.frontend.siciliafse1420.it" id="dfbc901e-7877-4e0d-a2fc-7035d5e742ca" port="22" customName="SRV4debug.si" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="156.54.139.142" id="a744049f-f754-4c85-8179-5f8afb8a3b9a" port="22" customName="PREPRODssoFSE1420" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="156.54.139.142" id="ba98d297-60a2-47ae-88e5-459ecdae7a6b" port="22" customName="FORMAZIONEFSE1420" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="156.54.139.140" id="7a8b537d-5e7a-4349-87b9-1e5e43bf2dd6" port="22" customName="ASSISTENZAssoFSE1420" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="156.54.139.147" id="c2a89ac0-715b-442c-a1a8-14baa834fd97" port="22" customName="PREPRODavviso292019" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="156.54.139.147" id="8b3dba28-d2b2-41b7-b666-a107a2871fcc" port="22" customName="PRODavviso292019" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="156.54.139.147" id="5c380590-675c-4b75-84d3-813d7d279e04" port="22" customName="PREPRODAvviso302019" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="156.54.139.147" id="86eec59c-074b-4fad-88f9-be601edc22d8" port="22" customName="PRODAvviso302019" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="srv4.frontend.siciliafse1420.it" id="dbdf7eae-c484-47e3-9be0-295641266d2d" port="22" customName="PREPRODAvviso332019" nameFormat="CUSTOM" username="root" />
+      <sshConfig authType="PASSWORD" host="multitechservice.it" id="6d7d76d3-9ff9-4f4c-b64d-fc6a11104689" port="2222" customName="Multitech-Studioagrifoglio" nameFormat="CUSTOM" username="mtech" />
     </configs>
   </component>
 </application>
