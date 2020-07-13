@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="4e51e6fc-488c-4584-b6b5-e889df04876e" name="preprod_MIT">
-        <fileTransfer rootFolder="/home/preprod/" accessType="SFTP" host="10.20.242.2" port="22" sshConfigId="e77ff0cd-86ba-472c-a028-660c8567a050" sshConfig="MITdevSSH">
+      <webServer id="4e51e6fc-488c-4584-b6b5-e889df04876e" name="preprod_MIT" url="http://fondodem.preprod.mit.gov.it/">
+        <fileTransfer rootFolder="/home/preprod" accessType="SFTP" host="10.20.242.2" port="22" sshConfigId="e77ff0cd-86ba-472c-a028-660c8567a050" sshConfig="MITdevSSH">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
