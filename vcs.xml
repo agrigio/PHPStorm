@@ -102,6 +102,10 @@
           <option name="url" value="https://giorgioagrifogliostudioagrifoglioit@helixteamhub.cloud/studioagrifoglio/projects/mit/repositories/git/fondodem.mit.gov.it" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://agrigio:wexnnbwejqamiiytpbse7kobmvshjo5os7dxwjyp2bghrcbovtoq@dev.azure.com/agrigio/MIT/_git/contributofondodem.mit.gov.it" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
