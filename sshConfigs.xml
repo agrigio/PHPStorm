@@ -73,9 +73,6 @@
       <sshConfig authType="PASSWORD" host="10.20.241.42" id="e77ff0cd-86ba-472c-a028-660c8567a050" port="22" customName="MITprodSSH" nameFormat="CUSTOM" username="root">
         <option name="customName" value="MITprodSSH" />
       </sshConfig>
-      <sshConfig authType="PASSWORD" host="10.20.242.2" id="e77ff0cd-86ba-472c-a028-660c8567a050" port="22" customName="MITdevSSH" nameFormat="CUSTOM" username="root">
-        <option name="customName" value="MITdevSSH" />
-      </sshConfig>
     </configs>
   </component>
 </application>
