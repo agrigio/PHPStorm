@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="4e51e6fc-488c-4584-b6b5-e889df04876e" name="preprod_MIT" url="http://fondodem.preprod.mit.gov.it/">
-        <fileTransfer rootFolder="/home/preprod" accessType="SFTP" host="10.20.242.2" port="22" sshConfigId="e77ff0cd-86ba-472c-a028-660c8567a050" sshConfig="MITdevSSH">
+        <fileTransfer rootFolder="/home/preprod" accessType="SFTP" host="10.20.241.42" port="22" sshConfigId="e77ff0cd-86ba-472c-a028-660c8567a050" sshConfig="MITprodSSH">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -164,6 +164,13 @@
       </webServer>
       <webServer id="49c1d160-518e-456c-9783-4f41aceb94ab" name="Multitech-Studioagrifoglio" url="http://multitechservice.it">
         <fileTransfer rootFolder="/home/mtech/" accessType="SFTP" host="multitechservice.it" port="2222" sshConfigId="553c3f6a-d4a2-4e36-9000-401379a9717a" sshConfig="Multitech-Studioagrifoglio">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="7f9549dc-de53-4905-a106-ec5fcb11cc21" name="prodMIT" url="http://fondodemolizioni.mit.gov.it/">
+        <fileTransfer rootFolder="/home/prod" accessType="SFTP" host="10.20.241.42" port="22" sshConfigId="e77ff0cd-86ba-472c-a028-660c8567a050" sshConfig="MITprodSSH">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
