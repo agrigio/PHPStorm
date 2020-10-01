@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="4e51e6fc-488c-4584-b6b5-e889df04876e" name="preprod_MIT" url="http://fondodem.preprod.mit.gov.it/">
+      <webServer id="4e51e6fc-488c-4584-b6b5-e889df04876e" name="preprod_MIT_FondoDemolizioni" url="http://fondodem.preprod.mit.gov.it/">
         <fileTransfer rootFolder="/home/preprod" accessType="SFTP" host="10.20.241.38" port="22" sshConfigId="1077d1ba-7332-45eb-afce-e09082c4aac9" sshConfig="root@10.20.241.38:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
@@ -169,8 +169,15 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="7f9549dc-de53-4905-a106-ec5fcb11cc21" name="prodMIT" url="http://fondodemolizioni.mit.gov.it/">
+      <webServer id="7f9549dc-de53-4905-a106-ec5fcb11cc21" name="prod_MIT_FondoDemolizioni" url="http://fondodemolizioni.mit.gov.it/">
         <fileTransfer rootFolder="/home/prod" accessType="SFTP" host="10.20.241.42" port="22" sshConfigId="e77ff0cd-86ba-472c-a028-660c8567a050" sshConfig="MITprodSSH">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="c7cba042-3ac0-4007-9ec4-f3f4088cfa8e" name="preprod_MIT_Qualitabitare" url="http://qualitabitare.preprod.mit.gov.it/">
+        <fileTransfer rootFolder="/home/preprod" accessType="SFTP" host="10.20.241.38" port="22" sshConfigId="1077d1ba-7332-45eb-afce-e09082c4aac9" sshConfig="root@10.20.241.38:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
