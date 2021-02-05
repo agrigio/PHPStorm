@@ -183,6 +183,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="9c538125-f665-4291-b467-d5e03debce1d" name="VPSEasyClientApp" url="https://gest.preprod.easyclientapp.com">
+        <fileTransfer rootFolder="/home/preprod/gest" accessType="SFTP" host="vpspreprod.easyclientapp.com" port="22" sshConfigId="8bbfabf4-2cfc-437c-a695-bf481e8e6ebb" sshConfig="root@vpspreprod.easyclientapp.com:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

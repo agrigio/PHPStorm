@@ -74,6 +74,7 @@
         <option name="customName" value="MITprodSSH" />
       </sshConfig>
       <sshConfig authType="PASSWORD" host="10.20.241.38" id="1077d1ba-7332-45eb-afce-e09082c4aac9" port="22" nameFormat="DESCRIPTIVE" username="root" />
+      <sshConfig authType="PASSWORD" host="vpspreprod.easyclientapp.com" id="8bbfabf4-2cfc-437c-a695-bf481e8e6ebb" port="22" nameFormat="DESCRIPTIVE" username="root" />
     </configs>
   </component>
 </application>
