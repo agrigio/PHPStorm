@@ -30,6 +30,14 @@
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;833ac4cd-4688-4bf2-ae79-2a4aa69cef6d&quot;,&quot;name&quot;:&quot;legge1452019.mit.gov.it&quot;,&quot;remoteUrl&quot;:&quot;https://agrigio@dev.azure.com/agrigio/MIT/_git/legge1452019.mit.gov.it&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/38fc6a9b-1302-4afa-94a5-901d75f9d246/_apis/git/repositories/833ac4cd-4688-4bf2-ae79-2a4aa69cef6d&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;,&quot;name&quot;:&quot;MIT&quot;,&quot;revision&quot;:12,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/_apis/projects/38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;},&quot;_links&quot;:null}" />
         </ServerContextState>
         <ServerContextState>
+          <option name="type" value="VSO_DEPLOYMENT" />
+          <option name="uri" value="https://app.vssps.visualstudio.com" />
+          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
+          <option name="userId" value="4aa08adb-7544-6ea3-ab16-4f47945693af" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
           <option name="type" value="VSO" />
           <option name="uri" value="https://dev.azure.com/siciliadigitale" />
           <option name="serverUri" value="https://dev.azure.com/siciliadigitale" />
@@ -72,6 +80,15 @@
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;,&quot;name&quot;:&quot;MIT&quot;,&quot;revision&quot;:12,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/_apis/projects/38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;}" />
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;713b3180-d06f-4531-93d7-bd2f36a7ac52&quot;,&quot;name&quot;:&quot;gest.easyclientapp.com&quot;,&quot;remoteUrl&quot;:&quot;https://agrigio@dev.azure.com/agrigio/MIT/_git/gest.easyclientapp.com&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/38fc6a9b-1302-4afa-94a5-901d75f9d246/_apis/git/repositories/713b3180-d06f-4531-93d7-bd2f36a7ac52&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;,&quot;name&quot;:&quot;MIT&quot;,&quot;revision&quot;:12,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/_apis/projects/38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;},&quot;_links&quot;:null}" />
         </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://agrigio@dev.azure.com/agrigio/MIT/_git/alborichiami.mit.gov.it" />
+          <option name="serverUri" value="https://dev.azure.com/agrigio" />
+          <option name="userId" value="4aa08adb-7544-6ea3-ab16-4f47945693af" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;e2b30fe2-e7e9-4ea2-be69-61f5b28e27f2&quot;,&quot;name&quot;:&quot;agrigio&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/_apis/projectCollections/e2b30fe2-e7e9-4ea2-be69-61f5b28e27f2&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;,&quot;name&quot;:&quot;MIT&quot;,&quot;revision&quot;:14,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/_apis/projects/38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;14f15280-c0cf-4304-81f4-d10427f11a1e&quot;,&quot;name&quot;:&quot;alborichiami.mit.gov.it&quot;,&quot;remoteUrl&quot;:&quot;https://agrigio@dev.azure.com/agrigio/MIT/_git/alborichiami.mit.gov.it&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/38fc6a9b-1302-4afa-94a5-901d75f9d246/_apis/git/repositories/14f15280-c0cf-4304-81f4-d10427f11a1e&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;,&quot;name&quot;:&quot;MIT&quot;,&quot;revision&quot;:14,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/_apis/projects/38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
       </array>
     </option>
     <option name="properties">
@@ -82,7 +99,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//agrigio@dev.azure.com/agrigio/mit/_git/gest.easyclientapp.com" />
+          <option name="value" value="//agrigio@dev.azure.com/agrigio/mit/_git/alborichiami.mit.gov.it" />
         </PropertyState>
       </array>
     </option>
