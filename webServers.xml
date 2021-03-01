@@ -190,6 +190,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="f2af0b0e-67de-44c9-9e28-ca688b3959ff" name="preprod_MIT_AlboRichiami" url="http://alborichiami.preprod.mit.gov.it/">
+        <fileTransfer rootFolder="/home/preprod" accessType="SFTP" host="10.20.241.38" port="22" sshConfigId="1077d1ba-7332-45eb-afce-e09082c4aac9" sshConfig="root@10.20.241.38:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
