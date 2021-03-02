@@ -30,14 +30,6 @@
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;833ac4cd-4688-4bf2-ae79-2a4aa69cef6d&quot;,&quot;name&quot;:&quot;legge1452019.mit.gov.it&quot;,&quot;remoteUrl&quot;:&quot;https://agrigio@dev.azure.com/agrigio/MIT/_git/legge1452019.mit.gov.it&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/38fc6a9b-1302-4afa-94a5-901d75f9d246/_apis/git/repositories/833ac4cd-4688-4bf2-ae79-2a4aa69cef6d&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;,&quot;name&quot;:&quot;MIT&quot;,&quot;revision&quot;:12,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/_apis/projects/38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;},&quot;_links&quot;:null}" />
         </ServerContextState>
         <ServerContextState>
-          <option name="type" value="VSO_DEPLOYMENT" />
-          <option name="uri" value="https://app.vssps.visualstudio.com" />
-          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
-          <option name="userId" value="4aa08adb-7544-6ea3-ab16-4f47945693af" />
-          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
-          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
-        </ServerContextState>
-        <ServerContextState>
           <option name="type" value="VSO" />
           <option name="uri" value="https://dev.azure.com/siciliadigitale" />
           <option name="serverUri" value="https://dev.azure.com/siciliadigitale" />
