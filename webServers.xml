@@ -197,6 +197,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="f5b4ef44-bff1-477a-a94c-721d42f83c89" name="preprod_MIT_art25cds" url="http://art25cds.preprod.mit.gov.it/">
+        <fileTransfer rootFolder="/home/preprod" accessType="SFTP" host="10.20.241.38" port="22" sshConfigId="1077d1ba-7332-45eb-afce-e09082c4aac9" sshConfig="root@10.20.241.38:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
