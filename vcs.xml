@@ -114,6 +114,10 @@
           <option name="url" value="https://agrigio:mhd7jjpapudtkabcuwx5oacu7drp4rj4l2cbk4n32i757qmnhu4a@dev.azure.com/agrigio/MIT/_git/art25cds" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://agrigioppjovmlrvlycjw6udzpqawlve5evbisaffldor556au2siozqy2q@dev.azure.com/agrigio/MIT/_git/art25cds.mit.gov.it" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
