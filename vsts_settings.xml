@@ -19,6 +19,15 @@
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;CAS&quot;,&quot;id&quot;:&quot;38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;,&quot;name&quot;:&quot;MIT&quot;,&quot;revision&quot;:24,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/_apis/projects/38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;}" />
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/main&quot;,&quot;id&quot;:&quot;ca3d2486-04e6-4c31-bb0f-8a0904dbd864&quot;,&quot;name&quot;:&quot;art25cds&quot;,&quot;remoteUrl&quot;:&quot;https://agrigio@dev.azure.com/agrigio/MIT/_git/art25cds&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/38fc6a9b-1302-4afa-94a5-901d75f9d246/_apis/git/repositories/ca3d2486-04e6-4c31-bb0f-8a0904dbd864&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;CAS&quot;,&quot;id&quot;:&quot;38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;,&quot;name&quot;:&quot;MIT&quot;,&quot;revision&quot;:24,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/_apis/projects/38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;}}" />
         </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://agrigio@dev.azure.com/agrigio/MIT/_git/qualitabitare.mit.gov.it" />
+          <option name="serverUri" value="https://dev.azure.com/agrigio" />
+          <option name="userId" value="244b3937-e4af-48a0-b1ee-851e83cca7db" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;e2b30fe2-e7e9-4ea2-be69-61f5b28e27f2&quot;,&quot;name&quot;:&quot;agrigio&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/_apis/projectCollections/e2b30fe2-e7e9-4ea2-be69-61f5b28e27f2&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;CAS&quot;,&quot;id&quot;:&quot;38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;,&quot;name&quot;:&quot;MIT&quot;,&quot;revision&quot;:24,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/_apis/projects/38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;ccb15744-fd28-48af-818a-cef91cbd4404&quot;,&quot;name&quot;:&quot;qualitabitare.mit.gov.it&quot;,&quot;remoteUrl&quot;:&quot;https://agrigio@dev.azure.com/agrigio/MIT/_git/qualitabitare.mit.gov.it&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/_apis/git/repositories/ccb15744-fd28-48af-818a-cef91cbd4404&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;CAS&quot;,&quot;id&quot;:&quot;38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;,&quot;name&quot;:&quot;MIT&quot;,&quot;revision&quot;:24,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/_apis/projects/38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;}}" />
+        </ServerContextState>
       </array>
     </option>
     <option name="properties">
@@ -29,7 +38,7 @@
         </PropertyState>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//agrigio@dev.azure.com/agrigio/mit/_git/art25cds" />
+          <option name="value" value="//agrigio@dev.azure.com/agrigio/mit/_git/qualitabitare.mit.gov.it" />
         </PropertyState>
       </array>
     </option>
