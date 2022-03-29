@@ -1,5 +1,8 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="201">
+    <driver id="mariadb">
+      <artifact id="MariaDB Connector J" name="MariaDB Connector J" use="true" version="2.7.3" />
+    </driver>
     <driver id="sqlserver.ms">
       <artifact id="SQL Server" name="SQL Server" use="true" version="8.2.2" />
     </driver>
