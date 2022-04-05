@@ -80,6 +80,9 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.12.2.35" id="5ffd9837-fe03-49aa-8ab8-fcd6360cac0d" port="22" customName="DEVFSE1420Complementari" nameFormat="CUSTOM" useOpenSSHConfig="true">
         <option name="customName" value="DEVFSE1420Complementari" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="studioagrifoglio.it" id="d23ea13a-a322-4515-872e-ce00818ead89" port="2222" customName="ROOTStudioagrifoglio" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="ROOTStudioagrifoglio" />
+      </sshConfig>
     </configs>
   </component>
 </application>
