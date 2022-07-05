@@ -1,0 +1,20 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="79777164-e75d-4d1b-af47-f8701d5e7f78" name="PRODcompensazioneprezzi.mit.gov.it" url="http://compensazioneprezzi.mit.gov.it">
+        <fileTransfer rootFolder="/home/prod/compensazioneprezzi" accessType="SFTP" host="10.20.241.42" port="22" sshConfigId="e77ff0cd-86ba-472c-a028-660c8567a050" sshConfig="root@10.20.241.42:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="23a27ab6-6022-4826-9b5a-057db5932d66" name="PREPRODcompensazioneprezzi.mit.gov.it" url="http://preprod.compensazioneprezzi.mit.gov.it">
+        <fileTransfer rootFolder="/home/preprod/compensazioneprezzi" accessType="SFTP" host="10.20.241.38" port="22" sshConfigId="1077d1ba-7332-45eb-afce-e09082c4aac9" sshConfig="root@10.20.241.38:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
