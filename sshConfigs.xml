@@ -29,6 +29,7 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="vpspreprod.easyclientapp.com" id="8bbfabf4-2cfc-437c-a695-bf481e8e6ebb" port="22" nameFormat="DESCRIPTIVE" username="root" />
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.12.2.35" id="5ffd9837-fe03-49aa-8ab8-fcd6360cac0d" port="22" nameFormat="DESCRIPTIVE" useOpenSSHConfig="true" />
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="studioagrifoglio.it" id="d23ea13a-a322-4515-872e-ce00818ead89" port="2222" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="10.142.246.151" id="de61372e-82d9-4f64-8ede-69aae1ce1208" port="22" nameFormat="DESCRIPTIVE" username="mitgov" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
