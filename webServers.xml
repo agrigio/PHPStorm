@@ -30,7 +30,14 @@
         </fileTransfer>
       </webServer>
       <webServer id="0dfff650-5846-4014-a690-1816bc234979" name="mit.gov.it nodo 1" url="http://mit.gov.it">
-        <fileTransfer rootFolder="/home/mitgov/public_html" accessType="SFTP" host="10.142.246.151" port="22" sshConfigId="de61372e-82d9-4f64-8ede-69aae1ce1208" sshConfig="mitgov@10.142.246.151:22 password">
+        <fileTransfer rootFolder="/home/mitgov/public_html" accessType="SFTP" host="10.142.246.151" port="22" sshConfigId="de61372e-82d9-4f64-8ede-69aae1ce1208" sshConfig="mit.gov.it NODO 1 mitgov@10.142.246.151:22">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="cdce70e0-79ad-49f2-b663-f1af02e09f53" name="mit.gov.it nodo 2" url="http://mit.gov.it">
+        <fileTransfer rootFolder="/home/mitgov/public_html" accessType="SFTP" host="10.142.246.152" port="22" sshConfigId="0fba48f5-4108-4aba-8ea7-2f3e3fe91a2e" sshConfig="mit.gov.it NODO 2 mitgov@10.142.246.152:22">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
