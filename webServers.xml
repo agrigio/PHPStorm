@@ -43,6 +43,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="b9cb7cc4-6d7e-4edf-9f67-da8cc924019a" name="PRODadeguamentoprezzipnrrart26aED1" url="https://adeguamentoprezzipnrrart26a.mit.gov.it">
+        <fileTransfer rootFolder="/home/prod/adeguamentoprezzipnrrart26a-edizione1" accessType="SFTP" host="10.20.241.42" port="22" sshConfigId="e77ff0cd-86ba-472c-a028-660c8567a050" sshConfig="root@10.20.241.42:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
