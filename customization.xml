@@ -80,20 +80,22 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="$Undo" is_action="true" action_type="1" position="0">
-      <path value="root" />
-      <path value="Main Toolbar Center" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
     <group value="CodeCompletion" is_action="true" action_type="1" position="0">
       <path value="root" />
       <path value="Main Toolbar Center" />
       <path value="Code Completion" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="$Redo" is_action="true" action_type="1" position="1">
+    <group value="$Undo" is_action="true" action_type="1" position="0">
       <path value="root" />
-      <path value="Main Toolbar Center" />
+      <path value="Main Toolbar" />
+      <path value="Center" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="CodeCompletion" is_action="true" action_type="1" position="0">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Center" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="SmartTypeCompletion" is_action="true" action_type="1" position="1">
@@ -102,9 +104,16 @@
       <path value="Code Completion" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Back" is_action="true" action_type="1" position="2">
+    <group value="$Redo" is_action="true" action_type="1" position="1">
       <path value="root" />
-      <path value="Main Toolbar Center" />
+      <path value="Main Toolbar" />
+      <path value="Center" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SmartTypeCompletion" is_action="true" action_type="1" position="1">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Center" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="EditorCompleteStatement" is_action="true" action_type="1" position="2">
@@ -113,9 +122,16 @@
       <path value="Code Completion" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="Forward" is_action="true" action_type="1" position="3">
+    <group value="Back" is_action="true" action_type="1" position="2">
       <path value="root" />
-      <path value="Main Toolbar Center" />
+      <path value="Main Toolbar" />
+      <path value="Center" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="EditorCompleteStatement" is_action="true" action_type="1" position="2">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Center" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="HippieCompletion" is_action="true" action_type="1" position="3">
@@ -124,9 +140,16 @@
       <path value="Code Completion" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="PreviousOccurence" is_action="true" action_type="1" position="4">
+    <group value="Forward" is_action="true" action_type="1" position="3">
       <path value="root" />
-      <path value="Main Toolbar Center" />
+      <path value="Main Toolbar" />
+      <path value="Center" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="HippieCompletion" is_action="true" action_type="1" position="3">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Center" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="HippieBackwardCompletion" is_action="true" action_type="1" position="4">
@@ -135,16 +158,29 @@
       <path value="Code Completion" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="PreviousOccurence" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Center" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="HippieBackwardCompletion" is_action="true" action_type="1" position="4">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <path value="Center" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="NextOccurence" is_action="true" action_type="1" position="5">
       <path value="root" />
-      <path value="Main Toolbar Center" />
+      <path value="Main Toolbar" />
+      <path value="Center" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="CodeCompletionGroup" is_group="true" forse_popup="true" action_type="1" position="6">
       <path value="root" />
-      <path value="Main Toolbar Center" />
+      <path value="Main Toolbar" />
+      <path value="Center" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <action id="EditMenu" />
   </component>
 </application>
