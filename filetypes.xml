@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="19">
     <extensionMap>
       <mapping ext="stub" type="PLAIN_TEXT" />
       <mapping pattern="tipospesadisabili" type="SQL" />
