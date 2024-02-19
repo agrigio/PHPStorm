@@ -60,12 +60,12 @@
     <option name="properties">
       <array>
         <PropertyState>
-          <option name="name" value="lastContextKey" />
-          <option name="value" value="//agrigio@dev.azure.com/agrigio/mit/_git/fondodem.mit.gov.it" />
-        </PropertyState>
-        <PropertyState>
           <option name="name" value="repoRoot" />
           <option name="value" value="$USER_HOME$/PhpstormProjects" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//agrigio@dev.azure.com/agrigio/mit/_git/fondodem.mit.gov.it" />
         </PropertyState>
       </array>
     </option>
