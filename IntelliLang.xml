@@ -1,0 +1,9 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="CSS" injector-id="blade">
+      <display-name>section css</display-name>
+      <single-file value="true" />
+      <place disabled="true"><![CDATA[bladeSection("css")]]></place>
+    </injection>
+  </component>
+</application>
