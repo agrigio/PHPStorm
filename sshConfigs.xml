@@ -35,6 +35,9 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.142.246.152" id="0fba48f5-4108-4aba-8ea7-2f3e3fe91a2e" port="22" customName="mit.gov.it NODO 2 mitgov@10.142.246.152:22" nameFormat="CUSTOM" username="mitgov" useOpenSSHConfig="true">
         <option name="customName" value="mit.gov.it NODO 2 mitgov@10.142.246.152:22" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.20.241.42" id="7fd36b9e-54d1-4c1e-8897-ee76f1b245f5" port="22" customName="prod@10.20.241.42:22" nameFormat="CUSTOM" username="prod" useOpenSSHConfig="true">
+        <option name="customName" value="prod@10.20.241.42:22" />
+      </sshConfig>
     </configs>
   </component>
 </application>
