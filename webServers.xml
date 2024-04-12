@@ -51,7 +51,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="a8dcdb5b-914b-4e05-807d-9464a81e3caf" name="PRODadeguamentoprezzi" url="https://adeguamentoprezzi.mit.gov.it">
-        <fileTransfer rootFolder="/home/prod/adeguamentoprezzi" accessType="SFTP" host="10.20.241.42" port="22" sshConfigId="e77ff0cd-86ba-472c-a028-660c8567a050" sshConfig="root@10.20.241.42:22 password">
+        <fileTransfer rootFolder="/home/prod/adeguamentoprezzi" accessType="SFTP" host="10.20.241.42" port="22" sshConfigId="7fd36b9e-54d1-4c1e-8897-ee76f1b245f5" sshConfig="prod@10.20.241.42:22">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
