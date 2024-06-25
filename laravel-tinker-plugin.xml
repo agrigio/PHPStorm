@@ -1,5 +1,5 @@
 <application>
   <component name="laravelTinker">
-    <option name="migrateVersion" value="2.7.0" />
+    <option name="migrateVersion" value="2.7.3" />
   </component>
 </application>
