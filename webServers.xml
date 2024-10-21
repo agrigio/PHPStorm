@@ -57,6 +57,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="a35f3f3a-4046-4dfd-aadf-aab2145ce612" name="PREPROD_testcom" url="http://adeguamentoprezzi.mit.gov.it">
+        <fileTransfer rootFolder="/home/testcom" accessType="SFTP" host="10.20.241.38" port="22" sshConfigId="1077d1ba-7332-45eb-afce-e09082c4aac9" sshConfig="root@10.20.241.38:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
