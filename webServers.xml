@@ -64,6 +64,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="931205c7-63d5-47e4-9c8e-68836f3c1e1c" name="personale.mit.gov.it" url="https://personale.mit.gov.it">
+        <fileTransfer rootFolder="/home/personal" accessType="SFTP" host="10.142.254.150" port="22" sshConfigId="9d0db706-eadc-4b46-aa29-c4fd77da7185" sshConfig="personale.mit.gov.it@10.142.254.150:22">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

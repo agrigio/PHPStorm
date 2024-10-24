@@ -22,12 +22,29 @@
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
+          <option name="uri" value="https://agrigio@dev.azure.com/agrigio/MIT/_git/personale.mit.gov.it" />
+          <option name="serverUri" value="https://dev.azure.com/agrigio" />
+          <option name="userId" value="4aa08adb-7544-6ea3-ab16-4f47945693af" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;e2b30fe2-e7e9-4ea2-be69-61f5b28e27f2&quot;,&quot;name&quot;:&quot;agrigio&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/_apis/projectCollections/e2b30fe2-e7e9-4ea2-be69-61f5b28e27f2&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Devops MIT&quot;,&quot;id&quot;:&quot;38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;,&quot;name&quot;:&quot;MIT&quot;,&quot;revision&quot;:29,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/_apis/projects/38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:&quot;refs/heads/master&quot;,&quot;id&quot;:&quot;90a527e1-b87a-45cf-b74f-b7356aa50d71&quot;,&quot;name&quot;:&quot;personale.mit.gov.it&quot;,&quot;remoteUrl&quot;:&quot;https://agrigio@dev.azure.com/agrigio/MIT/_git/personale.mit.gov.it&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/38fc6a9b-1302-4afa-94a5-901d75f9d246/_apis/git/repositories/90a527e1-b87a-45cf-b74f-b7356aa50d71&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Devops MIT&quot;,&quot;id&quot;:&quot;38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;,&quot;name&quot;:&quot;MIT&quot;,&quot;revision&quot;:29,&quot;state&quot;:&quot;WELL_FORMED&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/_apis/projects/38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
           <option name="uri" value="https://agrigio@dev.azure.com/agrigio/MIT/_git/adeguamentoprezzi.mit.gov.it" />
           <option name="serverUri" value="https://dev.azure.com/agrigio" />
           <option name="userId" value="244b3937-e4af-48a0-b1ee-851e83cca7db" />
           <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;e2b30fe2-e7e9-4ea2-be69-61f5b28e27f2&quot;,&quot;name&quot;:&quot;agrigio&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/_apis/projectCollections/e2b30fe2-e7e9-4ea2-be69-61f5b28e27f2&quot;}" />
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Devops MIT&quot;,&quot;id&quot;:&quot;38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;,&quot;name&quot;:&quot;MIT&quot;,&quot;revision&quot;:27,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/_apis/projects/38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;}" />
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;1fe063ab-01f1-4fdc-8060-375fbefdd941&quot;,&quot;name&quot;:&quot;adeguamentoprezzi.mit.gov.it&quot;,&quot;remoteUrl&quot;:&quot;https://agrigio@dev.azure.com/agrigio/MIT/_git/adeguamentoprezzi.mit.gov.it&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/_apis/git/repositories/1fe063ab-01f1-4fdc-8060-375fbefdd941&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:&quot;Devops MIT&quot;,&quot;id&quot;:&quot;38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;,&quot;name&quot;:&quot;MIT&quot;,&quot;revision&quot;:27,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/agrigio/_apis/projects/38fc6a9b-1302-4afa-94a5-901d75f9d246&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO_DEPLOYMENT" />
+          <option name="uri" value="https://app.vssps.visualstudio.com" />
+          <option name="serverUri" value="https://app.vssps.visualstudio.com" />
+          <option name="userId" value="4aa08adb-7544-6ea3-ab16-4f47945693af" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
         </ServerContextState>
         <ServerContextState>
           <option name="type" value="VSO" />
@@ -78,12 +95,12 @@
     <option name="properties">
       <array>
         <PropertyState>
-          <option name="name" value="lastContextKey" />
-          <option name="value" value="//agrigio@dev.azure.com/agrigio/mit/_git/test cas" />
-        </PropertyState>
-        <PropertyState>
           <option name="name" value="repoRoot" />
           <option name="value" value="$USER_HOME$/PhpstormProjects" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//agrigio@dev.azure.com/agrigio/mit/_git/personale.mit.gov.it" />
         </PropertyState>
       </array>
     </option>

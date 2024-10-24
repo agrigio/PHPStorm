@@ -38,6 +38,9 @@
       <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.20.241.42" id="7fd36b9e-54d1-4c1e-8897-ee76f1b245f5" port="22" customName="prod@10.20.241.42:22" nameFormat="CUSTOM" username="prod" useOpenSSHConfig="true">
         <option name="customName" value="prod@10.20.241.42:22" />
       </sshConfig>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.142.254.150" id="9d0db706-eadc-4b46-aa29-c4fd77da7185" port="22" customName="personale.mit.gov.it@10.142.254.150:22" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="personale.mit.gov.it@10.142.254.150:22" />
+      </sshConfig>
     </configs>
   </component>
 </application>
