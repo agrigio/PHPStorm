@@ -71,6 +71,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="4babaf4e-2b7a-4373-a5f3-8e7619561125" name="PREPROD_PERSONALE" url="http://personale.preprod.mit.gov.it">
+        <fileTransfer rootFolder="/home/preprod/personale" accessType="SFTP" host="10.20.241.38" port="22" sshConfigId="1077d1ba-7332-45eb-afce-e09082c4aac9" sshConfig="root@10.20.241.38:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
