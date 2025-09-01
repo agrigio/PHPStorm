@@ -2,77 +2,63 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="f49f85b9-3c15-44d5-8288-7fc06a335bb9" name="PREPROD_adeguamentoprezziart26b" url="http://adeguamentoprezzi.mit.gov.it">
-        <fileTransfer rootFolder="/home/preprod/adeguamentoprezziart26b" accessType="SFTP" host="10.20.241.38" port="22" sshConfigId="1077d1ba-7332-45eb-afce-e09082c4aac9" sshConfig="root@10.20.241.38:22 password">
+        <fileTransfer rootFolder="/home/preprod/adeguamentoprezziart26b" accessType="SFTP" host="10.142.254.150" port="22" sshConfigId="1077d1ba-7332-45eb-afce-e09082c4aac9" sshConfig="veloxmi@10.142.254.150:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="79777164-e75d-4d1b-af47-f8701d5e7f78" name="PRODcompensazioneprezzi.mit.gov.it" url="http://compensazioneprezzi.mit.gov.it">
-        <fileTransfer rootFolder="/home/prod/compensazioneprezzi" accessType="SFTP" host="10.20.241.42" port="22" sshConfigId="e77ff0cd-86ba-472c-a028-660c8567a050" sshConfig="root@10.20.241.42:22 password">
+        <fileTransfer rootFolder="/home/prod/compensazioneprezzi" accessType="SFTP" sshConfigId="e77ff0cd-86ba-472c-a028-660c8567a050" sshConfig="root@10.20.241.42:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="23a27ab6-6022-4826-9b5a-057db5932d66" name="PREPRODcompensazioneprezzi.mit.gov.it" url="http://preprod.compensazioneprezzi.mit.gov.it">
-        <fileTransfer rootFolder="/home/preprod/compensazioneprezzi" accessType="SFTP" host="10.20.241.38" port="22" sshConfigId="1077d1ba-7332-45eb-afce-e09082c4aac9" sshConfig="root@10.20.241.38:22 password">
+        <fileTransfer rootFolder="/home/preprod/compensazioneprezzi" accessType="SFTP" host="10.142.254.150" port="22" sshConfigId="1077d1ba-7332-45eb-afce-e09082c4aac9" sshConfig="veloxmi@10.142.254.150:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="6e9df1b5-329d-4f6a-8780-be82b98e7747" name="PRODadeguamentoprezzipnrrart26a" url="https://adeguamentoprezzipnrrart26a.mit.gov.it">
-        <fileTransfer rootFolder="/home/prod/adeguamentoprezzipnrrart26a" accessType="SFTP" host="10.20.241.42" port="22" sshConfigId="e77ff0cd-86ba-472c-a028-660c8567a050" sshConfig="root@10.20.241.42:22 password">
+        <fileTransfer rootFolder="/home/prod/adeguamentoprezzipnrrart26a" accessType="SFTP" sshConfigId="e77ff0cd-86ba-472c-a028-660c8567a050" sshConfig="root@10.20.241.42:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="0dfff650-5846-4014-a690-1816bc234979" name="mit.gov.it nodo 1" url="http://mit.gov.it">
-        <fileTransfer rootFolder="/home/mitgov/public_html" accessType="SFTP" host="10.142.246.151" port="22" sshConfigId="de61372e-82d9-4f64-8ede-69aae1ce1208" sshConfig="mit.gov.it NODO 1 mitgov@10.142.246.151:22">
+        <fileTransfer rootFolder="/home/mitgov/public_html" accessType="SFTP" sshConfigId="de61372e-82d9-4f64-8ede-69aae1ce1208" sshConfig="mit.gov.it NODO 1 mitgov@10.142.246.151:22">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="cdce70e0-79ad-49f2-b663-f1af02e09f53" name="mit.gov.it nodo 2" url="http://mit.gov.it">
-        <fileTransfer rootFolder="/home/mitgov/public_html" accessType="SFTP" host="10.142.246.152" port="22" sshConfigId="0fba48f5-4108-4aba-8ea7-2f3e3fe91a2e" sshConfig="mit.gov.it NODO 2 mitgov@10.142.246.152:22">
+        <fileTransfer rootFolder="/home/mitgov/public_html" accessType="SFTP" sshConfigId="0fba48f5-4108-4aba-8ea7-2f3e3fe91a2e" sshConfig="mit.gov.it NODO 2 mitgov@10.142.246.152:22">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="b9cb7cc4-6d7e-4edf-9f67-da8cc924019a" name="PRODadeguamentoprezzipnrrart26aED1" url="https://adeguamentoprezzipnrrart26a.mit.gov.it">
-        <fileTransfer rootFolder="/home/prod/adeguamentoprezzipnrrart26a-edizione1" accessType="SFTP" host="10.20.241.42" port="22" sshConfigId="e77ff0cd-86ba-472c-a028-660c8567a050" sshConfig="root@10.20.241.42:22 password">
+      <webServer id="27f46148-7d8b-484c-bf51-32e26c39a952" name="testcom.preprod.mit.gov.it" url="https://testcom.preprod.mit.gov.it/">
+        <fileTransfer rootFolder="/home/preprod/testcom" accessType="SFTP" host="10.142.254.150" port="22" sshConfigId="1077d1ba-7332-45eb-afce-e09082c4aac9" sshConfig="veloxmi@10.142.254.150:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="a8dcdb5b-914b-4e05-807d-9464a81e3caf" name="PRODadeguamentoprezzi" url="https://adeguamentoprezzi.mit.gov.it">
-        <fileTransfer rootFolder="/home/prod/adeguamentoprezzi" accessType="SFTP" host="10.20.241.42" port="22" sshConfigId="7fd36b9e-54d1-4c1e-8897-ee76f1b245f5" sshConfig="prod@10.20.241.42:22">
+      <webServer id="30e0d70c-a4a4-4c67-acd9-115bded9d376" name="PREPROD_personale" url="https://personale.preprod.mit.gov.it/">
+        <fileTransfer rootFolder="/home/preprod/personale" accessType="SFTP" host="10.142.254.150" port="22" sshConfigId="1077d1ba-7332-45eb-afce-e09082c4aac9" sshConfig="veloxmi@10.142.254.150:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="a35f3f3a-4046-4dfd-aadf-aab2145ce612" name="PREPROD_testcom" url="http://testcom.preprod.mit.gov.it">
-        <fileTransfer rootFolder="/home/preprod/testcom" accessType="SFTP" host="10.20.241.38" port="22" sshConfigId="1077d1ba-7332-45eb-afce-e09082c4aac9" sshConfig="root@10.20.241.38:22 password">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="931205c7-63d5-47e4-9c8e-68836f3c1e1c" name="personale.mit.gov.it" url="https://personale.mit.gov.it">
-        <fileTransfer rootFolder="/home/personal" accessType="SFTP" host="10.142.254.150" port="22" sshConfigId="9d0db706-eadc-4b46-aa29-c4fd77da7185" sshConfig="personale.mit.gov.it@10.142.254.150:22">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-        </fileTransfer>
-      </webServer>
-      <webServer id="4babaf4e-2b7a-4373-a5f3-8e7619561125" name="PREPROD_PERSONALE" url="http://personale.preprod.mit.gov.it">
-        <fileTransfer rootFolder="/home/preprod/personale" accessType="SFTP" host="10.20.241.38" port="22" sshConfigId="1077d1ba-7332-45eb-afce-e09082c4aac9" sshConfig="root@10.20.241.38:22 password">
+      <webServer id="fb253e0f-0a87-406d-b904-760bef44546b" name="10.142.254.150_velox" url="https://velox.mit.gov.it">
+        <fileTransfer rootFolder="/home/veloxmi" accessType="SFTP" host="10.142.254.150" port="22" sshConfigId="1077d1ba-7332-45eb-afce-e09082c4aac9" sshConfig="veloxmi@10.142.254.150:22 password">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>

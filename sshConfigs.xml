@@ -1,45 +1,9 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.12.2.35" id="b8899950-b0cb-470a-9ef7-24355755a47c" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.12.2.35" id="ef2794d6-3daa-4366-810e-02c436cc7bf3" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.12.2.35" id="a9140aac-57c8-4856-a448-87f37e089e65" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.12.2.35" id="9fde3fca-ee89-4730-99c8-c72de90618b7" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="156.54.139.140" id="6817a46e-6dc9-41d4-b807-d4958ede7458" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="156.54.139.140" id="bec8157d-abe6-499e-af5c-1640a4bc2621" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="156.54.139.142" id="cb5f0b0c-2151-4bd4-861e-617585037dd1" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="avviso82016.siciliafse1420.it" id="ecb87586-9827-432b-b0c0-0cc63c3baeaf" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="circolare1314.siciliafse1420.it" id="7ccecf9b-a696-4093-b63b-a237601d8ead" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="srv4.frontend.siciliafse1420.it" id="d8a28cd6-d2ab-4ecb-8614-fab36fa78592" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="srv4.frontend.siciliafse1420.it" id="7f185cda-9a3d-4e2b-855d-0277163171a8" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="srv4.frontend.siciliafse1420.it" id="4c9417ff-e57d-4bda-88c5-80df373f0a9f" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="156.54.139.140" id="40455fdc-5bd1-40bf-aac7-69dd556776b7" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="srv4.frontend.siciliafse1420.it" id="3ee2a474-3b70-44d0-be46-78291199da15" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="156.54.139.142" id="2929bd2b-8437-48ce-9457-16df5b61d892" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="156.54.139.142" id="e3664d23-b9a9-4f8a-8087-1d8a5cdaf776" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="156.54.139.140" id="962fe6b6-d2de-4cf6-af02-72e352797bed" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="156.54.139.147" id="93e8d140-32a6-4188-85d3-8fad36aec901" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="156.54.139.147" id="f746ee3b-a75d-4cf1-b5be-c67b2d4d40e5" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="156.54.139.147" id="5c69edb3-461f-4bb9-be58-d72c45a03da5" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="156.54.139.147" id="7b86bee9-4c9e-4922-9dc1-8ae7677a04f2" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="srv4.frontend.siciliafse1420.it" id="5e102e72-c45e-413f-8b63-fadc31aec02e" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="multitechservice.it" id="553c3f6a-d4a2-4e36-9000-401379a9717a" port="2222" nameFormat="DESCRIPTIVE" username="mtech" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.20.241.42" id="e77ff0cd-86ba-472c-a028-660c8567a050" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.20.241.38" id="1077d1ba-7332-45eb-afce-e09082c4aac9" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="vpspreprod.easyclientapp.com" id="8bbfabf4-2cfc-437c-a695-bf481e8e6ebb" port="22" nameFormat="DESCRIPTIVE" username="root" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.12.2.35" id="5ffd9837-fe03-49aa-8ab8-fcd6360cac0d" port="22" nameFormat="DESCRIPTIVE" useOpenSSHConfig="true" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="studioagrifoglio.it" id="d23ea13a-a322-4515-872e-ce00818ead89" port="2222" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.142.246.151" id="de61372e-82d9-4f64-8ede-69aae1ce1208" port="22" customName="mit.gov.it NODO 1 mitgov@10.142.246.151:22" nameFormat="CUSTOM" username="mitgov" useOpenSSHConfig="true">
-        <option name="customName" value="mit.gov.it NODO 1 mitgov@10.142.246.151:22" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.142.246.152" id="0fba48f5-4108-4aba-8ea7-2f3e3fe91a2e" port="22" customName="mit.gov.it NODO 2 mitgov@10.142.246.152:22" nameFormat="CUSTOM" username="mitgov" useOpenSSHConfig="true">
-        <option name="customName" value="mit.gov.it NODO 2 mitgov@10.142.246.152:22" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.20.241.42" id="7fd36b9e-54d1-4c1e-8897-ee76f1b245f5" port="22" customName="prod@10.20.241.42:22" nameFormat="CUSTOM" username="prod" useOpenSSHConfig="true">
-        <option name="customName" value="prod@10.20.241.42:22" />
-      </sshConfig>
-      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.142.254.150" id="9d0db706-eadc-4b46-aa29-c4fd77da7185" port="22" customName="personale.mit.gov.it@10.142.254.150:22" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
-        <option name="customName" value="personale.mit.gov.it@10.142.254.150:22" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.142.254.150" id="1077d1ba-7332-45eb-afce-e09082c4aac9" port="22" nameFormat="DESCRIPTIVE" username="veloxmi" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="10.142.254.150" id="c58b56df-625a-46d1-8a90-0c958b947765" port="22" customName="root@110.142.254.150:22" nameFormat="CUSTOM" username="root" useOpenSSHConfig="true">
+        <option name="customName" value="root@110.142.254.150:22" />
       </sshConfig>
     </configs>
   </component>
