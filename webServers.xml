@@ -64,6 +64,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="6c12612a-f82e-404e-b71b-be1f7150b9ce" name="PREPROD_velox" url="https://personale.preprod.mit.gov.it/">
+        <fileTransfer rootFolder="/home/preprod/velox.mit.gov.it" accessType="SFTP" host="10.20.241.38" port="22" sshConfigId="5f54b67a-2345-465d-9375-bdd30e92fce5" sshConfig="preprod@10.20.241.38">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

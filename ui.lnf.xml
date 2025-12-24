@@ -8,5 +8,8 @@
     <option name="MAX_LOOKUP_WIDTH2" value="942" />
     <option name="OPEN_IN_PREVIEW_TAB_IF_POSSIBLE" value="true" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="SHOW_TOOL_WINDOW_NAMES" value="true" />
+    <option name="TOOL_WINDOW_LEFT_SIDE_CUSTOM_WIDTH" value="59" />
+    <option name="TOOL_WINDOW_RIGHT_SIDE_CUSTOM_WIDTH" value="59" />
   </component>
 </application>
