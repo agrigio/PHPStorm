@@ -10,5 +10,6 @@
     <entry key="ide.windowSystem.autoShowProcessPopup" value="true" source="SYSTEM" />
     <entry key="debugger.new.tool.window.layout" value="true" source="SYSTEM" />
     <entry key="completion.cloud.enableTextCompletion" value="false" source="MANAGER" />
+    <entry key="switched.from.classic.to.islands" value="false" source="SYSTEM" />
   </component>
 </application>
